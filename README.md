@@ -20,7 +20,7 @@ Bonjour, je suis Forth et je suis développeur. Je me forme pour développer des
 
 ### Développement API
 
-- Gallerie : https://github.com/Forthtilliath/Gallery
+- Galerie : https://github.com/Forthtilliath/Gallery
 
 ## Liens utiles
 
