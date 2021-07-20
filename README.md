@@ -7,7 +7,6 @@ Bonjour, je suis Forth et je suis développeur. Je me forme pour développer des
 ### Extensions webs
 
 - Twitch Buffering Fix : https://github.com/Forthtilliath/Twitch-Buffering-Fix
-- Forth Styles : https://github.com/Forthtilliath/Forth_styles
 - Kong Add-on : https://github.com/Forthtilliath/Kong-Add-on
 
 ### Développement Web
