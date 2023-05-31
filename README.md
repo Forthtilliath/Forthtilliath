@@ -4,12 +4,12 @@ Bonjour, je suis Forth et je suis développeur Front. Je me spécialise dans les
 
 ## Technologies
 
-![Front-End : ReactJS](https://img.shields.io/badge/FrontEnd-ReactJS-%232196f3?style=for-the-badge&logo=react)
-![Front-End : NextJS](https://img.shields.io/badge/FrontEnd-NextJS-%234caf50?style=for-the-badge&logo=next)
-![Front-End : SolidJS](https://img.shields.io/badge/FrontEnd-SolidJS-%23ff9800?style=for-the-badge&logo=solid)
+![Front-End : ReactJS](https://img.shields.io/badge/FrontEnd-ReactJS-%2303a9f4?style=for-the-badge&logo=react)
+![Front-End : NextJS](https://img.shields.io/badge/FrontEnd-NextJS-%23919191?style=for-the-badge&logo=nextdotjs)
+![Front-End : SolidJS](https://img.shields.io/badge/FrontEnd-SolidJS-%23f2f2f2?style=for-the-badge&logo=solid)
 ![ORM : Prisma](https://img.shields.io/badge/ORM-Prisma-%237c49d5?style=for-the-badge&logo=prisma)
-![CSS : Tailwind](https://img.shields.io/badge/CSS-Tailwind-%2300bcd4?style=for-the-badge&logo=tailwindcss)
-![CSS : SCSS](https://img.shields.io/badge/CSS-SCSS-%23343941?style=for-the-badge&logo=sass)
+![CSS : Tailwind](https://img.shields.io/badge/CSS-Tailwind-%2306b6d4?style=for-the-badge&logo=tailwindcss)
+![CSS : SCSS](https://img.shields.io/badge/CSS-SCSS-%23cc6699?style=for-the-badge&logo=sass)
 
 ## Liste des projets
 
