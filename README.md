@@ -22,3 +22,6 @@ A venir...
 - Stackblitz : https://stackblitz.com/@Forthtilliath
 - Linkedin : 
 - CV : 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=forthtilliath&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=forthtilliath&show_icons=true&theme=radical&count_private=true)
