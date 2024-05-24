@@ -7,6 +7,8 @@ Salut, je m'appelle Vincent. Développeur Front spécialisé dans React, NextJS,
 ![Front-End : ReactJS](https://img.shields.io/badge/FrontEnd-ReactJS-%2303a9f4?style=for-the-badge&logo=react)
 ![Front-End : NextJS](https://img.shields.io/badge/FrontEnd-NextJS-%23919191?style=for-the-badge&logo=nextdotjs)
 ![Front-End : SolidJS](https://img.shields.io/badge/FrontEnd-SolidJS-%23f2f2f2?style=for-the-badge&logo=solid)
+![Front-End : Sveltekit](https://img.shields.io/badge/FrontEnd-Sveltekit-%23ff3e00?style=for-the-badge&logo=svelte)
+
 ![ORM : Prisma](https://img.shields.io/badge/ORM-Prisma-%237c49d5?style=for-the-badge&logo=prisma)
 ![CSS : Tailwind](https://img.shields.io/badge/CSS-Tailwind-%2306b6d4?style=for-the-badge&logo=tailwindcss)
 ![CSS : SCSS](https://img.shields.io/badge/CSS-SCSS-%23cc6699?style=for-the-badge&logo=sass)
