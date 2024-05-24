@@ -1,6 +1,6 @@
 # Présentation
 
-Bonjour, je suis Forth et je suis développeur Front. Je me spécialise dans les frameworks et méta-framework Javascript dont principalement React, NextJS, SolidJS et Sveltekit, tout cela couplé à Typescript. Pour les styles, j'utilise souvent Tailwindcss ou bien les modules css en fonction des projets.
+Salut, je m'appelle Vincent. Développeur Front spécialisé dans React, NextJS, SolidJS et SvelteKit, j'applique TypeScript pour renforcer la qualité de mes projets. J'alterne entre TailwindCSS et CSS Modules pour répondre aux besoins stylistiques. Face à une fonctionnalité intéressante, je m'approche avec la rigueur d'un horloger démontant une montre pour en comprendre le fonctionnement. J'aime apprendre et tester de nouvelles choses, c'est une manière pour moi d'agrandir continuellement mes connaissances.
 
 ## Technologies
 
