@@ -1,6 +1,6 @@
 # Présentation
 
-Bonjour, je suis Forth et je suis développeur Front. Je me spécialise dans les frameworks Javascript dont principalement React, NextJS et SolidJS, tout cela couplé à Typescript. Pour le styles, j'utilise Tailwindcss ou bien les modules css en fonction des projets.
+Bonjour, je suis Forth et je suis développeur Front. Je me spécialise dans les frameworks et méta-framework Javascript dont principalement React, NextJS, SolidJS et Sveltekit, tout cela couplé à Typescript. Pour les styles, j'utilise souvent Tailwindcss ou bien les modules css en fonction des projets.
 
 ## Technologies
 
@@ -20,7 +20,7 @@ A venir...
 - Codepen : https://codepen.io/forthtilliath/
 - Codesandbox : https://codesandbox.io/u/Forthtilliath
 - Stackblitz : https://stackblitz.com/@Forthtilliath
-- Linkedin : 
+- Linkedin : https://www.linkedin.com/in/vincent-lisita/
 - CV : 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=forthtilliath&theme=radical&hide_langs_below=8)
