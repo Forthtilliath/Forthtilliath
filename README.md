@@ -25,5 +25,9 @@ A venir...
 - Linkedin : https://www.linkedin.com/in/vincent-lisita/
 - CV : https://cv-vincent-lisita.vercel.app/
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=forthtilliath&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=forthtilliath&show_icons=true&theme=radical&count_private=true)
+<a href="#">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forthtilliath&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=5&card_width=320" />
+</a>
+<a href="#">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=forthtilliath&show_icons=true&theme=radical&count_private=true" />
+</a>
