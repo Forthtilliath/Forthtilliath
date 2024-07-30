@@ -19,11 +19,13 @@ A venir...
 
 ## Liens utiles
 
+- CV : https://cv-vincent-lisita.vercel.app/
+- Portfolio : https://vincent-lisita.vercel.app/
+
 - Codepen : https://codepen.io/forthtilliath/
 - Codesandbox : https://codesandbox.io/u/Forthtilliath
 - Stackblitz : https://stackblitz.com/@Forthtilliath
 - Linkedin : https://www.linkedin.com/in/vincent-lisita/
-- CV : https://cv-vincent-lisita.vercel.app/
 
 <a href="#">
   <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forthtilliath&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=5&card_width=320" />
