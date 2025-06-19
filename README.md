@@ -19,7 +19,7 @@ A venir...
 
 ## Liens utiles
 
-- CV : https://cv-vincent-lisita.vercel.app/
+- CV : https://vincent-lisita.vercel.app/cv
 - Portfolio : https://vincent-lisita.vercel.app/
 
 - Codepen : https://codepen.io/forthtilliath/
