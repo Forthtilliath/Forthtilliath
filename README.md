@@ -14,9 +14,13 @@ Face à une fonctionnalité intéressante, je m'approche avec la rigueur d'un ho
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) [![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)](https://www.solidjs.com/) [![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://kit.svelte.dev/) [![Preact](https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white)](https://preactjs.com/)
 
-**Full-stack & langage**
+**Langage**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge) [![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)](https://adonisjs.com/) [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge)
+
+**Backend**
+
+[![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)](https://adonisjs.com/) [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
 **Style**
 
@@ -49,8 +53,8 @@ Face à une fonctionnalité intéressante, je m'approche avec la rigueur d'un ho
 <br>
 
 <a href="#">
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forthtilliath&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=5&card_width=320" />
+  <img height=230 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=forthtilliath&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=5&card_width=320" />
 </a>
 <a href="#">
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=forthtilliath&show_icons=true&theme=radical&count_private=true" />
+  <img height=230 align="center" src="https://github-stats-extended.vercel.app/api?username=forthtilliath&show_icons=true&theme=radical&count_private=true" />
 </a>
