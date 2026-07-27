@@ -2,7 +2,7 @@
 
 ![Statut](https://img.shields.io/badge/-Ouvert_aux_opportunit%C3%A9s-2ea44f?style=for-the-badge) [![Portfolio](https://img.shields.io/badge/Portfolio-vincent--lisita.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vincent-lisita.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lisita/)
 
-Développeur Front-End basé à Angers, je me spécialise dans **React, Next.js, SolidJS et SvelteKit**, avec TypeScript pour fiabiliser mes projets. J'aime toucher à des stacks variées plutôt que de me cantonner à une seule techno — j'alterne entre Tailwind CSS, Sass et CSS Modules selon le projet, et je publie aussi des outils réutilisables (voir Preact TOC ci-dessous).
+Développeur Front-End basé à Angers, je me spécialise dans **React, Next.js, SolidJS et SvelteKit**, avec TypeScript pour fiabiliser mes projets. Je fais aussi du mobile avec **React Native/Expo** sur mon temps libre. J'aime toucher à des stacks variées plutôt que de me cantonner à une seule techno — j'alterne entre Tailwind CSS, Sass et CSS Modules selon le projet, et je publie aussi des outils réutilisables (voir Preact TOC ci-dessous).
 
 Face à une fonctionnalité intéressante, je m'approche avec la rigueur d'un horloger démontant une montre pour en comprendre le fonctionnement. Apprendre et tester de nouvelles choses est ma manière d'agrandir continuellement mes connaissances.
 
@@ -12,7 +12,15 @@ Face à une fonctionnalité intéressante, je m'approche avec la rigueur d'un ho
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) [![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)](https://www.solidjs.com/) [![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://kit.svelte.dev/) [![Preact](https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white)](https://preactjs.com/)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)](https://www.solidjs.com/) [![Preact](https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white)](https://preactjs.com/)
+
+**Full-stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) [![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
+
+**Mobile**
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/) [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 
 **Langage**
 
@@ -38,6 +46,8 @@ Face à une fonctionnalité intéressante, je m'approche avec la rigueur d'un ho
 - **[Oriflamme](https://forth-oriflamme.netlify.app/)** — SolidJS · Tailwind CSS — vitrine de restaurant avec carte interactive et formulaire de contact validé.
 - **[Spotube](https://forth-spotube.netlify.app/)** — SolidJS · TypeScript — lecteur audio avec playlist et contrôles complets.
 - **[LOL Random Arena](https://lol-random-arena.vercel.app/)** — SvelteKit · Tailwind CSS — génère aléatoirement équipes et champions pour le mode Arena de League of Legends.
+- **[Sodexo Planning](https://github.com/Forthtilliath/reactnative-planning)** — React Native · Expo · TypeScript — appli mobile personnelle de gestion de planning de travail, avec export agenda et rappels locaux.
+- **Diabète Tracker** — React Native · Expo — application de suivi du diabète (en cours de finalisation, publication à venir).
 
 📁 L'ensemble de mes projets est présenté sur mon [portfolio](https://vincent-lisita.vercel.app/).
 
